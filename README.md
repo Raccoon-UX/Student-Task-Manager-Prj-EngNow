@@ -6,7 +6,7 @@ A full-stack web application designed to help students manage their tasks with a
 
 A full-stack web application designed to help students manage their tasks with a gamified experience. Built with the MERN stack (MongoDB, Express, React, Node.js).
 
-![Project Preview](student-task-manager-prj-eng-674ta5p36-vsujal956-5034s-projects.vercel.app)
+![Project Preview](https://student-task-manager-prj-eng-now.vercel.app)
 
 ##  Features
 
