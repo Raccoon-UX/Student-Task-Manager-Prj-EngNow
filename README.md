@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 # Student-Task-Manager-Prj-EngNow
 A full-stack web application designed to help students manage their tasks with a gamified experience. Built with the **MERN stack** to help students organize their academic life with AI-powered intelligence and Visual Analytics.
 =======
@@ -6,7 +6,7 @@ A full-stack web application designed to help students manage their tasks with a
 
 A full-stack web application designed to help students manage their tasks with a gamified experience. Built with the MERN stack (MongoDB, Express, React, Node.js).
 
-![Project Preview](https://via.placeholder.com/800x400?text=Student+Task+Manager+Dashboard)
+![Project Preview](student-task-manager-prj-eng-674ta5p36-vsujal956-5034s-projects.vercel.app)
 
 ##  Features
 
