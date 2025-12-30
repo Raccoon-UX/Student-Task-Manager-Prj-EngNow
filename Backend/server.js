@@ -13,8 +13,8 @@ const app = express();
 
 // Middleware: Sirf ek baar CORS use karein
 app.use(cors({
-    origin: 'http://localhost:5173', // Local React URL
-    credentials: true
+  origin: ["https://student-task-manager-prj-eng-now.vercel.app"], // Apna exact Vercel link yahan daalein
+  credentials: true
 }));
 
 app.use(express.json()); // Body parser
